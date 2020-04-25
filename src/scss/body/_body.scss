@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: first baseline;
+  flex-direction: column;
+  align-items: center;
+  background-color: $color-background;
+
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgrey;
+
+    &:hover {
+      color: lime;
+      font-size: 20px;
+    }
+  }
+
+  li {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
+
+#userText {
+  font-family: Arial, Helvetica, sans-serif;
+
+  &:hover {
+    border: solid lime 3px;
+  }
+}
