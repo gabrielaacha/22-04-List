@@ -8,7 +8,7 @@ const color = () => {
   return result;
 };
 
-const toDo = () => {
+const toDoList = () => {
   let userInput = document.querySelector("#userText").value;
   console.log(userInput);
 
@@ -28,10 +28,15 @@ const toDo = () => {
     item.color = color();
   });
 
-  // let span = document.createElement("span");
-  // let text = document.createTextNode("x");
-  // span.className = "close";
-  // span.appendChild(text);
+  let span = document.createElement("span");
+  let text2 = document.createTextNode(
+    dateStart.getFullYear(),
+    dateStart.getMonth(),
+    dateStart.getDate()
+  );
+  span.className = "close";
+  span.appendChild(text2);
+  document.body.appendChild(span);
 
   // let listAll = document.querySelectorAll("li");
   // listAll.forEach((item) => {
