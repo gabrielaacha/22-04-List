@@ -1,4 +1,4 @@
-# Selection of Movie Titles with the DOM
+# TO DO LIST
 
 ## Description
 
@@ -6,7 +6,7 @@
 
 ## Features-Interface
 
-- to do list :memo
+- to do list :memo:
 
 ## Technologies
 
