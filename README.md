@@ -16,7 +16,7 @@
 
 ## References
 
-[freshman tech to do](https://freshman.tech/todo-list/)
-[code explained youtobe to do for beginners](https://www.youtube.com/watch?v=b8sUhU_eq3g)
+- [freshman tech to do](https://freshman.tech/todo-list/)
+- [code explained youtobe to do for beginners](https://www.youtube.com/watch?v=b8sUhU_eq3g)
 
 
